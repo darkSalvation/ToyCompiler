@@ -1,0 +1,8 @@
+﻿expression
+
+function
+	: funcname LPAREN expression RPAREN
+
+funcname
+	: ADD
+
