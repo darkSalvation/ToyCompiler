@@ -1,0 +1,7 @@
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ToyCompiler.Test\obj\Debug\ToyCompiler.Test.csprojResolveAssemblyReference.cache
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ToyCompiler.Test\bin\Debug\ToyCompiler.Test.dll
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ToyCompiler.Test\bin\Debug\ToyCompiler.Test.pdb
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ToyCompiler.Test\bin\Debug\ToyCompiler.exe
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ToyCompiler.Test\bin\Debug\ToyCompiler.pdb
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ToyCompiler.Test\obj\Debug\ToyCompiler.Test.dll
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ToyCompiler.Test\obj\Debug\ToyCompiler.Test.pdb

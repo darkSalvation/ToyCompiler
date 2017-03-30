@@ -1,0 +1,11 @@
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ToyCompiler.exe.config
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ToyCompiler.csprojResolveAssemblyReference.cache
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ToyCompiler.exe
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ToyCompiler.pdb
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ToyCompiler.exe
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ToyCompiler.pdb
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ConsoleApplication3\bin\Debug\ToyCompiler.exe.config
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ConsoleApplication3\obj\Debug\ToyCompiler.exe
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ConsoleApplication3\obj\Debug\ToyCompiler.pdb
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ConsoleApplication3\bin\Debug\ToyCompiler.exe
+C:\Users\warrimont\Documents\Visual Studio 2012\Projects\ToyCompiler\ConsoleApplication3\bin\Debug\ToyCompiler.pdb
